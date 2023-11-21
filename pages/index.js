@@ -16,8 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
           <form>
-              <label>Уровень атакующего:</label><input id="attackerLevel"/>
-              <input type="submit">Submit</input>
+              <label>Уровень атакующего:</label>
           </form>
       </main>
 
